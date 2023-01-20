@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "784628a2-7268-4f5f-a54a-5d5df27601b2"
+      }
+    },
+    "owner": "djstein"
+  }
+}
